@@ -1,0 +1,20 @@
+<resources>
+    <string name="resultado">MyCalculador</string>
+    <string name="borrar">MyCalculador</string>
+    <string name="cero">MyCalculador</string>
+    <string name="punto">MyCalculador</string>
+    <string name="uno">MyCalculador</string>
+    <string name="dos">MyCalculador</string>
+    <string name="tres">MyCalculador</string>
+    <string name="cuatro">MyCalculador</string>
+    <string name="cinco">MyCalculador</string>
+    <string name="seis">MyCalculador</string>
+    <string name="siete">MyCalculador</string>
+    <string name="ocho">MyCalculador</string>
+    <string name="nueve">MyCalculador</string>
+    <string name="div">MyCalculador</string>
+    <string name="suma">MyCalculador</string>
+    <string name="resta">MyCalculador</string>
+    <string name="igual">MyCalculador</string>
+    <string name="mult">MyCalculador</string>
+</resources>
